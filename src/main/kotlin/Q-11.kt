@@ -16,6 +16,7 @@ fun main()
     println("Long: $lg")
     println("Short: $srt")
     println("Byte: $byte")
+
     println("Char: $char")
     println("Boolean: $bool")
     println("String: $string")
